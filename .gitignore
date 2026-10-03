@@ -1,0 +1,28 @@
+# Java / Maven
+Business_Management_Project/target/
+*.class
+*.jar
+*.war
+
+# Eclipse / IDE metadata
+Business_Management_Project/.metadata/
+Business_Management_Project/.project
+Business_Management_Project/.settings/
+Business_Management_Project/.classpath
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
